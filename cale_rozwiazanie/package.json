@@ -1,0 +1,21 @@
+{
+  "name": "cale_rozwiazanie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "client-server": "node ./src/client-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "admin-cli": "./src/admin-cli.js"
+  },
+  "dependencies": {
+    "commander": "^5.0.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.1.0",
+    "uuid": "^7.0.2"
+  }
+}
