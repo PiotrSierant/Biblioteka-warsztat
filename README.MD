@@ -20,7 +20,7 @@ Biblioteka, na którą składają się dwie aplikacje. Pierwszą z nich jest ser
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/PiotrSierant/OMNI_translateAPP.git
+   git clone https://github.com/PiotrSierant/Biblioteka-warsztat.git
    ```
 2. Install NPM packages and start project
 
